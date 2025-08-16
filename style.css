@@ -1,0 +1,486 @@
+
+.heder{
+    padding-top: 41.5px;
+}
+.header-section{
+    padding-top: 160px;
+    padding-bottom: 325px;
+}
+.first-section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.therd-section{
+    padding-top: 134px;
+    padding-bottom:252px ;
+}
+.ford-section{
+    padding-top: 75px;
+    padding-bottom: 74px;
+    background-image: linear-gradient(#00000000,#0000002B,#0000004A,#00000082);
+}
+.five-section{
+    padding-top: 96px;
+    padding-bottom: 99.36px;
+    background-color: #D9D9D9;
+}
+.six_section{
+    padding-top: 40px;
+    padding-bottom: 126px;
+}
+.footer{
+    padding-top: 40px;
+    padding-bottom: 34px;
+    background-color: #FA6D06;
+}
+.third-section{
+    background-color: #F4F2F1;
+}
+
+
+.nav-list-link{
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 5%;
+    text-align: center;
+    color: #6B6B6B;
+}
+.header-section-title{
+    font-family: Abril Fatface;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 140px;
+    line-height: 140px;
+    letter-spacing: 0px;
+    color: #43484D;
+    padding-bottom: 35px;
+}
+.header-section-text{
+    font-family: Abril Fatface;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #43484D;
+    padding-bottom: 58px;
+}
+.nav-list-button{
+    color: #FA6D06;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+p,h1,h2,h3{
+    margin: 0;
+}
+.header-section-btn{
+    font-family: Poppins;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 5%;
+    vertical-align: middle;
+    color: #F4F2F1;
+    background-color: #FA6D06;
+    border-radius: 8px;
+    width: 320px;
+    height: 64px;
+}
+.autobiography-title{
+    font-family: Abril Fatface;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #565656;
+    margin-bottom: 40px;
+}
+.autobiography-text{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5%;
+    color: #000000;
+    width: 639px;
+    
+}
+/* абонемент */
+.second-section{
+    padding-top: 27px;
+    padding-bottom: 71px;
+    background-image: linear-gradient(#00000000,#0000002B,#0000004A,#00000082);
+}
+.subscription-title{
+    font-family: Abril Fatface;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #565656;
+    padding-bottom: 40px;
+    
+}
+.subscription-list-text{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #F4F2F1;
+    margin-bottom: 36px;
+    text-align: center;
+    
+}
+.subscription-list-prase{
+    font-family: Lato;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #F4F2F1;
+    margin-bottom: 44px;
+    text-align: center;
+    
+}
+.subscription-list-time{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #F4F2F1;
+    margin-bottom: 105px;
+    max-width: 211px;
+    margin: 0 auto;
+
+}
+.shop-list-item{
+    font-family: Lato;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+line-height: 48px;
+letter-spacing: 0px;
+vertical-align: middle;
+
+}
+.subscription-list-button{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    background-color: #FA6D06;
+    color: #F4F2F1;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 103px ;
+    width: 195px;
+    height: 48px;
+
+}
+.subscription-list-text-second{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #F4F2F1;
+    
+}
+.subscription-list-item{
+    background-color: #43484D;
+    width: 295px;
+   padding-bottom: 27px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 53px;
+   border-radius: 5px;
+   transition: 1.5s;
+}
+ .subscription-list-item:hover{
+    background-color: #FFFFFF;
+    cursor: pointer;
+}
+.subscription-list-item:hover *{
+ color: #43484D; 
+}
+.shop-mene-text{
+    font-family: Abril Fatface;
+font-weight: 400;
+font-style: Regular;
+font-size: 48px;
+line-height: 48px;
+letter-spacing: 0px;
+vertical-align: middle;
+color: #565656;
+padding-bottom: 60px;
+}
+.subscription-list-button-second{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    background-color: #FA6D06;
+    color: #F4F2F1;
+    border-radius: 5px;
+}
+/* тренера */
+.trainers-title{
+    font-family: Abril Fatface;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #565656;
+    padding-bottom: 124px;
+    
+}
+/* спорт-бар */
+.shop-title{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;    
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #565656;
+}
+.shop-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FF8300;
+}
+.shop-button{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5%;
+    text-align: center;
+    vertical-align: middle;
+    color: #FF8300;
+    background-color: #FFFFFF;
+    outline: 1px solid #FF8300;
+    border-radius: 5px;
+}
+.shop-list-btn{
+width: 302px;
+height: 80px;
+padding: 16px;
+border-radius: 5px;
+background-color: #43484D;
+
+transition: 1.5s;
+}
+.shop-list-btn:hover{
+background-color: #FF8300;
+color: #FFFFFF;
+transform: scale(1.1);
+}
+.shop-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 15px;
+    margin-top: 30px;
+}
+.shop-item{
+    padding-left: 8.5px;
+    padding-bottom: 17px ;
+    padding-right:8.5px ;
+    width: 412px;
+    height: 420px;
+    background-color: #FFFFFF;
+}
+img{
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+.shop-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 18px;
+}
+/* галерея */
+.gelery-title{
+    font-family: Abril Fatface;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #565656;
+    padding-bottom: 44px;
+}
+.contacs-title{
+    font-family: Abril Fatface;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #F4F2F1;
+    margin-bottom: 40px;
+    
+}
+.contacs-list-item{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #F4F2F1;
+}
+.contacs-list-second{
+    font-family: Lato;
+font-weight: 400;
+font-style: Regular;
+font-size: 20px;
+line-height: 40px;
+letter-spacing: 0px;
+vertical-align: middle;
+color: #F4F2F1;
+}
+/* footer */
+.footer-list-link{
+    font-family: Lato;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    color: #565656;
+}
+.container{
+    width: 1279px;
+    margin: 0 auto;
+}
+.nav-list{
+    display: flex;
+    gap: 11px;
+    justify-content: end;
+    margin-left: auto;
+}
+.header-container{
+    display: flex;
+    align-items: center;
+}
+.autobiography-container{
+    display: flex;
+    gap: 38px;
+    align-items: center;
+
+}
+.subscription-list{
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    
+}
+
+.trainers-list{
+    display: flex;
+    justify-content: center;
+}
+.gelery-list{
+    display: flex;
+    justify-content: center;
+}
+.subscription-list-item:last-child{
+    width:628px;
+    padding-top: 7px;
+    padding-bottom: 10px;
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    
+}
+button{
+    border: none;
+}
+.shop-list-first{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.six-section{
+   background-color: #43484D; 
+   padding-top: 40px;
+   padding-bottom: 126px;
+
+}
+.contacs-container{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-list{
+    display: flex;
+    gap: 9px;
+
+}
+.footer-container{
+    display: flex;
+    align-items: center;
+    gap: 31px;
+}
+.footer-list-link-tel{
+    margin-left: auto;
+    font-family: Montserrat;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.5px;
+color: #565656;
+}
